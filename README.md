@@ -5,8 +5,8 @@
 Key facts
 - 👨‍🎓 Currently pursuing a Bachelor's degree in Computer Science at the Faculty of Computer Science at AGH University of Kraków.
 -  🔭 **I’m currently working on:**
-    *   **Chess Engine** | Rust 🦀
-- 🌱 My main focus right now is polishing my skills in building **scalable systems** with a strong focus on **Product Design**.
+    *   **Tournament registration system** | Java, SpringBoot, RabbitMQ, Kubernetes ☕
+- 🌱 My main focus right now is polishing my skills in building **scalable systems**.
 
 ---
 
@@ -23,7 +23,7 @@ Key facts
 #### Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gradle,figma,blender,ps,pr" />
+    <img src="https://skillicons.dev/icons?i=git,gradle,docker,figma,blender,ps,pr" />
   </a>
 </p>
 
