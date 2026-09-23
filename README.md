@@ -5,7 +5,7 @@
 Key facts
 - 👨‍🎓 Currently pursuing a Bachelor's degree in Computer Science at the Faculty of Computer Science at AGH University of Kraków.
 -  🔭 **I’m currently working on:**
-    *   **Tournament registration system** | Java, SpringBoot, RabbitMQ, Kubernetes ☕
+    *   **Tournament registration system** | Java, Spring Boot, RabbitMQ, Kubernetes ☕
 - 🌱 My main focus right now is polishing my skills in building **scalable systems**.
 
 ---
